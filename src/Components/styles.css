@@ -1,0 +1,52 @@
+h1 {
+  padding-left: 15px;
+  margin: 10px 0;
+  font-family: Akaya Telivigala;
+  font-size: 50px;
+}
+
+h2 {
+  padding-left: 15px;
+  font-size: 25px;
+  margin: 10px 0;
+  font-family: Lora;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+input {
+  display: block;
+  margin-top: 5px;
+  padding: 2px;
+  font-size: 16px;
+  border: 1px solid black;
+}
+
+input:focus {
+  outline: none;
+  background: rgb(255, 254, 242);
+  border-radius: 5px;
+  border: 1px solid #29b0d9;
+}
+
+button {
+  padding: 5px;
+  width: auto;
+  height: auto;
+  background-color: #fff;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  font-family: Lora;
+}
+
+button:hover {
+  background: rgb(255, 254, 242);
+  border: 1px solid steelblue;
+}

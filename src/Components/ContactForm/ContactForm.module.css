@@ -1,0 +1,7 @@
+.contactForm {
+  display: inline-block;
+  width: auto;
+  padding: 15px;
+  /* outline: 1px black solid; */
+  font-family: Lora;
+}

@@ -1,0 +1,21 @@
+.contactList {
+  display: inline-block;
+  padding: 15px;
+}
+
+.contactItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contactInformation {
+  font-size: 18px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.contactDelete {
+  margin-left: 10px;
+}
